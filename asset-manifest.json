@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/123Muamil/Form-Validation-with-Formik-and-Yup-Libarary/static/css/main.e6c13ad2.css",
+    "main.js": "/123Muamil/Form-Validation-with-Formik-and-Yup-Libarary/static/js/main.0d0d9c9a.js",
+    "static/js/787.af8b5a43.chunk.js": "/123Muamil/Form-Validation-with-Formik-and-Yup-Libarary/static/js/787.af8b5a43.chunk.js",
+    "index.html": "/123Muamil/Form-Validation-with-Formik-and-Yup-Libarary/index.html",
+    "main.e6c13ad2.css.map": "/123Muamil/Form-Validation-with-Formik-and-Yup-Libarary/static/css/main.e6c13ad2.css.map",
+    "main.0d0d9c9a.js.map": "/123Muamil/Form-Validation-with-Formik-and-Yup-Libarary/static/js/main.0d0d9c9a.js.map",
+    "787.af8b5a43.chunk.js.map": "/123Muamil/Form-Validation-with-Formik-and-Yup-Libarary/static/js/787.af8b5a43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0d0d9c9a.js"
+  ]
+}
